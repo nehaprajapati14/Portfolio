@@ -47,7 +47,7 @@ const Hero = () => {
               View My Work
             </button>
 <a
-  href="/href="/Neha_Prajapati_Resume.pdf""
+  href="/href="Neha_Prajapati_Resume.pdf""
   download="Neha_Prajapati_Resume.pdf"
   className="px-8 py-4 border-2 border-purple-400 text-purple-300 hover:bg-purple-400 hover:text-white font-semibold rounded-full transition-all duration-300 transform hover:scale-105"
 >
